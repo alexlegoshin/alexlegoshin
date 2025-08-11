@@ -1,6 +1,6 @@
-# About me 📣
+## 📣 About me
 
-👋 Hi! I’m Alexey — physicist, quantum optics researcher, and software developer.
+Hi! I’m Alexey — physicist, quantum optics researcher, and software developer. 👋 
 
 I specialize in quantum optics and experimental physics, combining deep scientific research with practical software development. My work focuses on ultracold atoms, quantum mechanics, and the development of innovative technological solutions. Scientific interests: quantum optics, quantum computing, quantum cryptography, experimental quantum physics, telecommunications, sensorics, guidance systems.
 
