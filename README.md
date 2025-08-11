@@ -1,4 +1,4 @@
-# Alexey Legoshin — Portfolio
+# 📣 Alexey Legoshin — About me
 
 👋 Hi! I’m Alexey — physicist, quantum optics researcher, and software developer.
 
@@ -41,15 +41,3 @@ Beyond science and code, I’m fascinated by philosophy, consciousness, and the 
 
 - Telegram: [@u_know_im_stupid](https://t.me/u_know_im_stupid)
 - Email: Legoshin.AD@phystech.edu
-
----
-
-## My Coding Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlegoshin&layout=compact)
-
-![Codewars](https://www.codewars.com/users/alexlegoshin/badges/large)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=alexlegoshin&theme=dark)
-
-![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=alexlegoshin&theme=dark)
