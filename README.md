@@ -1,4 +1,4 @@
-# Alexey Legoshin — About me  📣
+# About me 📣
 
 👋 Hi! I’m Alexey — physicist, quantum optics researcher, and software developer.
 
