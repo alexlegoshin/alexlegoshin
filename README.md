@@ -21,6 +21,9 @@ Beyond science and code, I’m fascinated by philosophy, consciousness, and the 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vibecoding](https://img.shields.io/badge/-Vibecoding-8A2BE2?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-412991?style=flat&logo=openai&logoColor=white)
+![AI Assisted Coding](https://img.shields.io/badge/-AI%20Assisted%20Coding-00A67E?style=flat&logo=openai&logoColor=white)
 
 ### 📊 Data Science & AI
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -31,9 +34,7 @@ Beyond science and code, I’m fascinated by philosophy, consciousness, and the 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Vibecoding](https://img.shields.io/badge/-Vibecoding-8A2BE2?style=flat&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-412991?style=flat&logo=openai&logoColor=white)
-![AI Assisted Coding](https://img.shields.io/badge/-AI%20Assisted%20Coding-00A67E?style=flat&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### 🌐 Web & DevOps
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
