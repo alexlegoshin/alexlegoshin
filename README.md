@@ -1,48 +1,62 @@
-## 📣 About me
+## 📣 About Me
 
-Hi! I’m Alexey — physicist, quantum optics researcher, and software developer. 👋 
+Physicist, R&D engineer, and software developer with a background in quantum optics, experimental physics, and scientific computing.
 
-I specialize in quantum optics and experimental physics, combining deep scientific research with practical software development. My work focuses on ultracold atoms, quantum mechanics, and the development of innovative technological solutions. Scientific interests: quantum optics, quantum computing, quantum cryptography, experimental quantum physics, telecommunications, sensorics, guidance systems.
+My primary research focuses on laser cooling, ultracold atoms, quantum optics, and numerical modeling of physical systems. Alongside academic research, I develop scientific software, engineering tools, and hardware solutions, combining physics with modern software engineering.
 
-With a strong programming background in Python, C++, and modern tools for scientific computing, I create projects that merge physics, technology, and data science. I’m passionate about bridging theory and practice, building efficient simulations, and exploring new horizons in quantum technologies.
+My professional interests include:
 
-In addition, I have a keen interest in artificial intelligence and fintech, exploring how cutting-edge algorithms and data-driven approaches can transform industries and enhance human potential.
+- Quantum optics and atomic physics
+- Scientific computing and numerical simulations
+- Python and C++ software development
+- Electronics, sensor systems, and embedded technologies
+- Artificial intelligence for scientific and engineering applications
+- Quantitative finance and algorithmic analysis
 
-Beyond science and code, I’m fascinated by philosophy, consciousness, and the interplay between intelligence and awareness, believing that technology and living systems can share surprising parallels.
+Outside of research, I am interested in philosophy of mind, epistemology, and the relationship between intelligence, computation, and consciousness.
 
 ---
 
 ## 🚀 Technologies & Tools
 
-### 🧠 Core Expertise
-![Quantum](https://img.shields.io/badge/-Quantum-6700E9?style=flat&logo=quantum&logoColor=white)
-![Physics](https://img.shields.io/badge/-Physics-3B82F6?style=flat&logo=physics&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vibecoding](https://img.shields.io/badge/-Vibecoding-8A2BE2?style=flat&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-412991?style=flat&logo=openai&logoColor=white)
-![AI Assisted Coding](https://img.shields.io/badge/-AI%20Assisted%20Coding-00A67E?style=flat&logo=openai&logoColor=white)
+### ⚛️ Physics & Research
 
-### 📊 Data Science & AI
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![CuPy](https://img.shields.io/badge/-CuPy-3795BD?style=flat&logo=cuda&logoColor=white)
-![JIT](https://img.shields.io/badge/-JIT-FF4500?style=flat&logo=jit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+Quantum Optics • Atomic Physics • Laser Cooling • Scientific Computing • Numerical Simulation
 
-### 🌐 Web & DevOps
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Tilda](https://img.shields.io/badge/-Tilda-FF3C00?style=flat&logo=tilda&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Batch](https://img.shields.io/badge/-Batch-0078D6?style=flat&logo=windows&logoColor=white)
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 📊 Scientific Computing
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![CuPy](https://img.shields.io/badge/CuPy-3795BD?style=flat&logo=nvidia&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### 🤖 AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/LLM-Prompt%20Engineering-412991?style=flat&logo=openai&logoColor=white)
+![AI-Assisted Development](https://img.shields.io/badge/AI-Assisted%20Development-10A37F?style=flat&logo=openai&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-8A2BE2?style=flat)
+
+### ⚙️ Engineering
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
