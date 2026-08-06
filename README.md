@@ -59,14 +59,6 @@ Quantum Optics • Atomic Physics • Laser Cooling • Optical Frequency Metrol
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-### Instrumentation & Measurement
-
-![SCPI](https://img.shields.io/badge/SCPI-0B6E4F?style=flat)
-![NI-VISA](https://img.shields.io/badge/NI--VISA-0E8A63?style=flat)
-![Oscilloscopes](https://img.shields.io/badge/Oscilloscopes-12A67B?style=flat)
-![SMU & Sources](https://img.shields.io/badge/SMU%20%26%20Sources-16BF8C?style=flat)
-![Test-Bench Automation](https://img.shields.io/badge/Test--Bench%20Automation-1AD69C?style=flat&logoColor=black)
-
 ### Engineering
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
